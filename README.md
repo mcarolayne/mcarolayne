@@ -1,11 +1,9 @@
 
-<h1 align="center">
-  𖤐 Maria Carolayne 𖤐
-</h1>
+<h1 align="center">𖤐 Maria Carolayne 𖤐</h1>
 
 <p align="center">
   <samp>
-    computer science · dark academia · digital worlds
+    ciência da computação
   </samp>
 </p>
 
@@ -13,36 +11,27 @@
   ☾ ⋆｡𖦹°‧ 🕸️ ‧°𖦹｡⋆ ☽
 </p>
 
-<p align="center">
-  <i>
-    "Per aspera ad astra"
-  </i>
-  <br>
-  <sub>through hardships to the stars</sub>
-</p>
 
----
+### 🕯️ 01. sobre mim
 
-### 🕯️ 01. about me
-
-Olá, sou Maria Carolayne, estudante de
+Olá! Sou Maria Carolayne, estudante de
 **Ciência da Computação na UNICAP**.
 
 Entre códigos, lógica e curiosidade, estou construindo
 minha jornada na tecnologia e explorando diferentes
 formas de compreender e desenvolver sistemas.
 
-Atualmente, meus interesses se concentram em três áreas:
+Atualmente, meus principais interesses são:
 
-𖤐 **Quality Assurance** — testes e qualidade de software
+𖤐 **Qualidade de Software (QA)** — testes e qualidade de software
 
-☾ **Data Science** — análise e ciência de dados
+☾ **Dados** — análise e ciência de dados
 
-⛧ **Cybersecurity** — segurança da informação
+⛧ **Cibersegurança** — segurança da informação
 
 ---
 
-### 🕸️ 02. technologies
+### 🕸️ 02. tecnologias e linguagens
 
 <p align="left">
   <code>C</code> &nbsp;
@@ -52,35 +41,31 @@ Atualmente, meus interesses se concentram em três áreas:
 </p>
 
 <sub>
-  Learning, experimenting and building — one line at a time.
+  Aprendendo, experimentando e construindo — uma linha de código por vez.
 </sub>
 
 ---
 
-### 🌑 03. current journey
+### 🌑 03. jornada atual
 
 - Aprofundando meus conhecimentos em programação.
 - Estudando lógica computacional e estruturas de dados.
-- Explorando QA, dados e cibersegurança.
 - Desenvolvendo projetos acadêmicos e pessoais.
 
 ---
 
-### 🗝️ 04. projects & archives
+### 🗝️ 04. projetos e arquivos
 
 <sub>
-  A collection of things I've learned, built and discovered.
+  Uma coleção do que aprendo, desenvolvo e descubro.
 </sub>
 
-Projetos acadêmicos e pessoais em desenvolvimento.
+Meus projetos acadêmicos e pessoais estão em desenvolvimento.
 Novos repositórios serão adicionados conforme minha jornada evolui.
 
 ---
 
-### 🦇 05. find me
 
-<p align="center">
-  ☾
   <br>
-  <sub>curiosity is its own kind of magic.</sub>
+  <sub>A curiosidade também é uma forma de magia.</sub>
 </p>
